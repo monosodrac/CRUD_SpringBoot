@@ -23,7 +23,7 @@
   - [GET /authenticate](#get-auth-detail)
   - [POST /authenticate](#post-auth-detail)
 - [🤝 How to Reach Me](#reach)
-- [📌 Observações](#obs)
+- [📌 Obs](#obs)
   
 </details>
 
